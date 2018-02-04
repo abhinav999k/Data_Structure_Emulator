@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/list_heading"
+        android:id="@+id/textView3"
+        android:layout_gravity="center_horizontal"
+        android:textStyle="bold"
+        android:textSize="30sp" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView"
+        android:layout_gravity="center_horizontal"
+        android:fillViewport="false">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/list_first"
+                android:id="@+id/textViewStack"
+                android:gravity="center"
+                android:background="#060707"
+                android:textColor="#fee503"
+                android:textSize="23sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="QUEUE"
+                android:id="@+id/textViewQueue"
+                android:gravity="center"
+                android:textSize="23sp"
+                android:textColor="#060707" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="To be added..."
+                android:id="@+id/textView6"
+                android:gravity="center"
+                android:background="#060707"
+                android:textColor="#fee503"
+                android:textSize="23sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="To be added..."
+                android:id="@+id/textView7"
+                android:gravity="center"
+                android:textSize="23sp"
+                android:textColor="#060707" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="To be added..."
+                android:id="@+id/textView4"
+                android:gravity="center"
+                android:textSize="23sp"
+                android:textColor="#fee503"
+                android:background="#060707" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="To be added..."
+                android:id="@+id/textView8"
+                android:textColor="#060707"
+                android:textSize="23sp"
+                android:gravity="center" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="To be added..."
+                android:id="@+id/textView9"
+                android:gravity="center"
+                android:textSize="23sp"
+                android:textColor="#fee503"
+                android:background="#060707" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="To be added..."
+                android:id="@+id/textView10"
+                android:textColor="#060707"
+                android:textSize="23sp"
+                android:gravity="center" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="To be added..."
+                android:id="@+id/textView11"
+                android:gravity="center"
+                android:textSize="23sp"
+                android:textColor="#fee503"
+                android:background="#060707" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="To be added..."
+                android:id="@+id/textView12"
+                android:textColor="#060707"
+                android:textSize="23sp"
+                android:gravity="center" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="To be added..."
+                android:id="@+id/textView13"
+                android:gravity="center"
+                android:textSize="23sp"
+                android:textColor="#fee503"
+                android:background="#060707" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="To be added..."
+                android:id="@+id/textView14"
+                android:textColor="#060707"
+                android:textSize="23sp"
+                android:gravity="center" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="To be added..."
+                android:id="@+id/textView15"
+                android:gravity="center"
+                android:textSize="23sp"
+                android:textColor="#fee503"
+                android:background="#060707" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="To be added..."
+                android:id="@+id/textView16"
+                android:textColor="#060707"
+                android:textSize="23sp"
+                android:gravity="center" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="To be added..."
+                android:id="@+id/textView17"
+                android:gravity="center"
+                android:textSize="23sp"
+                android:textColor="#fee503"
+                android:background="#060707" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="To be added..."
+                android:id="@+id/textView18"
+                android:textColor="#060707"
+                android:textSize="23sp"
+                android:gravity="center" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="To be added..."
+                android:id="@+id/textView19"
+                android:gravity="center"
+                android:textSize="23sp"
+                android:textColor="#fee503"
+                android:background="#060707" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="To be added..."
+                android:id="@+id/textView20"
+                android:textColor="#060707"
+                android:textSize="23sp"
+                android:gravity="center" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

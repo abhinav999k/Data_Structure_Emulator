@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">estructura de datos</string>
+    <string name="stack_heading">STACK</string>
+    <string name="stack_button_push">PUSH</string>
+    <string name="stack_button_pop">POP</string>
+    <string name="stack_status">Stack status</string>
+    <string name="stack_description_heading">Information about STACK D.S</string>
+    <string name="stack_description_link">Tap here to see</string>
+    <string name="list_heading">Data Structures</string>
+    <string name="list_first">STACK</string>
+    <string name="queue_heading">QUEUE</string>
+    <string name="queue_button_enqueue">ENQUEUE</string>
+    <string name="queue_button_dequeue">DEQUEUE</string>
+    <string name="stack_description_text">Stack is a Data Sructure that follows LIFO (Last In First Out).stack is an abstract data type that serves as a collection of elements, with two principal operations: push,
+                                            which adds an element to the collection, and pop, which removes the most recently added element that was not yet removed.</string>
+    <string name="queue_description_heading">Information about QUEUE</string>
+    <string name="queue_description_text">Queue is a data structur that supports FIFO (First In First Out). You can think of Queue as a real life queue at any waiting line. Where the
+                                          person who comes first is served first and the person who is last is served last.</string>
+</resources>
